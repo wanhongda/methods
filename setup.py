@@ -8,9 +8,9 @@ setup(
     long_description = "Public Script Library of quality management department",
     license = "Apache License 2.0",
 
-    url = "https://github.com/lin54241930/performance_collection.git",     #项目相关文件地址，一般是github
+    url = "https://github.com/wanhongda/methods.git",     #项目相关文件地址，一般是github
     author = "wanhongda",
-    author_email = "a451546614@163.com",
+    author_email = "451546614@qq.com",
 
     packages = find_packages(),
     include_package_data = True,
